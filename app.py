@@ -19,6 +19,11 @@ API_URLS = [
     "https://www.junaidniz.pw//api/tempotps?type=sms",
     "https://www.junaidniz.pw//api/tempotp?type=sms",
     "https://www.kamibroken.pw/api/sms3?type=sms",
+    "https://teamlegend-gamma.vercel.app//api/mait?type=sms",
+    "https://teamlegend-gamma.vercel.app//api/dgroup?type=sms",
+    "https://teamlegend-gamma.vercel.app//api/nmp?type=sms",
+    
+    
     
     
 ]
