@@ -16,7 +16,6 @@ GROUP_IDS = [
 API_URLS = [
     "https://www.kamibroken.pw/api/sms1?type=sms",
     "https://www.kamibroken.pw/api/sms?type=sms",
-    "https://www.junaidniz.pw//api/tempotps?type=sms",
     "https://www.junaidniz.pw//api/tempotp?type=sms",
     "https://www.kamibroken.pw/api/sms3?type=sms",
     "https://teamlegend-gamma.vercel.app//api/mait?type=sms",
