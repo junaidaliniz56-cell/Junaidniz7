@@ -137,8 +137,8 @@ Powered by THEM Legend
 async def send_to_all_groups(message):
     keyboard = InlineKeyboardMarkup(inline_keyboard=[
         [
-            InlineKeyboardButton(text="📢 Channel", url="https://t.me/LegendNumber92"),
-            InlineKeyboardButton(text="☎️ Numbers", url="https://t.me/LegendNumber92")
+            InlineKeyboardButton(text="📢 Channel", url="https://t.me/+t0CAPbyw77kzYzU0"),
+            InlineKeyboardButton(text="☎️ Numbers", url="https://t.me/teamlegendnumbers")
         ],
         [
             InlineKeyboardButton(text="👨‍💻 Developer", url="https://t.me/junaidniz786"),
