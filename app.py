@@ -130,7 +130,7 @@ def format_message(record):
 <blockquote>📩 Full Message:</blockquote>
 <pre>{msg}</pre>
 
-Powered by THEM Legend
+Powered by TEAM LEGENDS ✨
 """
 
 
