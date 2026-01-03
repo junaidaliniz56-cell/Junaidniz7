@@ -20,8 +20,6 @@ API_URLS = [
     "https://www.kamibroken.pw/api/sms3?type=sms",
     
     
-
-    
 ]
 
 def fetch_latest_otp(api_url):
