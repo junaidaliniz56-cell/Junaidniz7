@@ -126,7 +126,7 @@ def format_message(record):
 <blockquote>📩 Full Message:</blockquote>
 <pre>{msg}</pre>
 
-Powered by TEAM LEGENDS ✨
+Powered by Junaid Niz 💗 
 """
 
 
