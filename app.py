@@ -6,11 +6,11 @@ from phonenumbers import geocoder
 from telegram import Bot, InlineKeyboardButton, InlineKeyboardMarkup
 from datetime import datetime
 
-BOT_TOKEN = "8292521025:AAGPwswINC72GCtv3nmBOwua21oIcAQPuFQ"
+BOT_TOKEN = "8483422365:AAFy-wqcI77f_F8QukPXZ3N9Hlzk9xABrRc"
 bot = Bot(token=BOT_TOKEN)
 
 GROUP_IDS = [
-    -1002968061060,
+    -1003361941052,
 ]
 
 API_URLS = [
@@ -18,12 +18,9 @@ API_URLS = [
     "https://www.kamibroken.pw/api/sms?type=sms",
     "https://www.junaidniz.pw//api/tempotp?type=sms",
     "https://www.kamibroken.pw/api/sms3?type=sms",
-    "https://teamlegend-gamma.vercel.app//api/mait?type=sms",
-    "https://teamlegend-gamma.vercel.app//api/dgroup?type=sms",
-    "https://teamlegend-gamma.vercel.app//api/nmp?type=sms",
     
     
-    
+
     
 ]
 
@@ -136,12 +133,12 @@ Powered by TEAM LEGENDS ✨
 async def send_to_all_groups(message):
     keyboard = InlineKeyboardMarkup(inline_keyboard=[
         [
-            InlineKeyboardButton(text="📢 Channel", url="https://t.me/+t0CAPbyw77kzYzU0"),
-            InlineKeyboardButton(text="☎️ Numbers", url="https://t.me/teamlegendnumbers")
+            InlineKeyboardButton(text="📱 Channel", url="https://t.me/jndtech1"),
+            InlineKeyboardButton(text="☎️ Numbers", url="https://t.me/+KsZxVgR-LOo5N2Rk")
         ],
         [
             InlineKeyboardButton(text="👨‍💻 Developer", url="https://t.me/junaidniz786"),
-            InlineKeyboardButton(text="📂 Folder", url="https://t.me/addlist/tWWLXLLgRsEyMmFk")
+            InlineKeyboardButton(text="📣 YouTube", url="https://t.me/addlist/tWWLXLLgRsEyMmFk")
         ]
     ])
 
