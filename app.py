@@ -11,6 +11,7 @@ bot = Bot(token=BOT_TOKEN)
 
 GROUP_IDS = [
     -1003361941052,
+    -1002076058429,
 ]
 
 API_URLS = [
@@ -136,7 +137,7 @@ async def send_to_all_groups(message):
         ],
         [
             InlineKeyboardButton(text="👨‍💻 Developer", url="https://t.me/junaidniz786"),
-            InlineKeyboardButton(text="📣 YouTube", url="https://t.me/addlist/tWWLXLLgRsEyMmFk")
+            InlineKeyboardButton(text="📣 YouTube", url="https://youtube.com/@junaidniz786?si=tQFOJbg7aDL5XpG7")
         ]
     ])
 
