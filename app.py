@@ -133,7 +133,7 @@ async def send_to_all_groups(message):
     keyboard = InlineKeyboardMarkup(inline_keyboard=[
         [
             InlineKeyboardButton(text="📱 Channel", url="https://t.me/jndtech1"),
-            InlineKeyboardButton(text="☎️ Numbers", url="https://t.me/+KsZxVgR-LOo5N2Rk")
+            InlineKeyboardButton(text="☎️ Numbers", url="https://t.me/+c4VCxBCT3-QzZGFk")
         ],
         [
             InlineKeyboardButton(text="👨‍💻 Developer", url="https://t.me/junaidniz786"),
