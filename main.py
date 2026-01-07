@@ -6,11 +6,12 @@ from phonenumbers import geocoder
 from telegram import Bot, InlineKeyboardButton, InlineKeyboardMarkup
 from datetime import datetime
 
-BOT_TOKEN = "8299685411:AAHrwDwXawJV8zJcIweC1mcgsPhoBITnEgM"
+BOT_TOKEN = "8483422365:AAFy-wqcI77f_F8QukPXZ3N9Hlzk9xABrRc"
 bot = Bot(token=BOT_TOKEN)
 
 GROUP_IDS = [
-    -1003665350559,
+    -1003361941052,
+    -1002076058429,
   
 ]
 
@@ -19,6 +20,7 @@ API_URLS = [
     "https://www.kamibroken.pw/api/sms?type=sms",
     "https://www.junaidniz.pw//api/tempotp?type=sms",
     "https://www.kamibroken.pw/api/sms3?type=sms",
+    "https://kami-broken.up.railway.app/api?type=sms",
     
     
 ]
@@ -125,15 +127,15 @@ def format_message(record):
 <blockquote>📩 Full Message:</blockquote>
 <pre>{msg}</pre>
 
-Powered by Kumail Khan 💗 
+Powered by Junaid Niz 💗 
 """
 
 
 async def send_to_all_groups(message):
     keyboard = InlineKeyboardMarkup(inline_keyboard=[
         [
-            InlineKeyboardButton(text="📱 Channel", url="https://t.me/PKNUMBER"),
-            InlineKeyboardButton(text="☎️ Numbers", url="https://t.me/PKNUMBER")
+            InlineKeyboardButton(text="📱 Channel", url="https://t.me/jndtech1"),
+            InlineKeyboardButton(text="☎️ Numbers", url="https://t.me/+c4VCxBCT3-QzZGFk")
         ],
         [
             InlineKeyboardButton(text="👨‍💻 Developer", url="https://t.me/junaidniz786"),
