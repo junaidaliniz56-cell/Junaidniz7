@@ -12,7 +12,7 @@ bot = Bot(token=BOT_TOKEN)
 GROUP_IDS = [
     -1003361941052,
     -1002076058429,
-    -1003665350559,
+    
 ]
 
 API_URLS = [
@@ -20,6 +20,7 @@ API_URLS = [
     "https://www.kamibroken.pw/api/sms?type=sms",
     "https://www.junaidniz.pw//api/tempotp?type=sms",
     "https://www.kamibroken.pw/api/sms3?type=sms",
+    "https://kami-broken.up.railway.app/api?type=sms",
     
     
 ]
