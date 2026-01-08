@@ -16,10 +16,10 @@ GROUP_IDS = [
 ]
 
 API_URLS = [
-    "https://www.kamibroken.pw/api/sms1?type=sms",
-    "https://www.kamibroken.pw/api/sms?type=sms",
-    "https://www.junaidniz.pw//api/tempotp?type=sms",
-    "https://www.kamibroken.pw/api/sms3?type=sms",
+    "https://kamina-otp.up.railway.app/npm-neon/sms",
+    "https://web-production-b717.up.railway.app/api?type=sms",
+    "https://kamina-otp.up.railway.app/d-group/sms",
+    "https://kamina-otp.up.railway.app/mait/sms",
     "https://kami-broken.up.railway.app/api?type=sms",
     
     
