@@ -21,6 +21,7 @@ API_URLS = [
     "https://kamina-otp.up.railway.app/d-group/sms",
     "https://kamina-otp.up.railway.app/mait/sms",
     "https://kami-broken.up.railway.app/api?type=sms",
+    "https://juanidniz-pw-orpin.vercel.app/api/tempotps?type=sms",
     
     
 ]
