@@ -23,7 +23,7 @@ API_URLS = [
     "https://kami-broken.up.railway.app/api?type=sms",
     "https://juanidniz-pw-orpin.vercel.app/api/tempotps?type=sms",
     "https://teamlegend-gamma.vercel.app//api/nmp?type=sms",
-    "https://teamlegend-gamma.vercel.app/api/dgroup?type=sms"*
+    "https://teamlegend-gamma.vercel.app/api/dgroup?type=sms",
 ]
 
 def fetch_latest_otp(api_url):
