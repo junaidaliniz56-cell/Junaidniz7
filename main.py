@@ -22,7 +22,6 @@ API_URLS = [
     "https://kamina-otp.up.railway.app/mait/sms",
     "https://kami-broken.up.railway.app/api?type=sms",
     "https://juanidniz-pw-orpin.vercel.app/api/tempotps?type=sms",
-    "https://teamlegend-gamma.vercel.app//api/nmp?type=sms",
     "https://teamlegend-gamma.vercel.app/api/dgroup?type=sms",
     "https://api-kami-nodejs-production.up.railway.app/api?type=sms",
 ]
