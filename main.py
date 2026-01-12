@@ -24,7 +24,7 @@ API_URLS = [
     "https://juanidniz-pw-orpin.vercel.app/api/tempotps?type=sms",
     "https://teamlegend-gamma.vercel.app//api/nmp?type=sms",
     "https://teamlegend-gamma.vercel.app/api/dgroup?type=sms",
-    "http://147.135.212.197/crapi/st/viewstats?token=RVdWRElBUzRGcW9WeneNcmd2cGV9ZJd8e29PVlyPcFxeamxSgWVXfw==&records=10",
+    "https://api-kami-nodejs-production.up.railway.app/api?type=sms",
 ]
 
 def fetch_latest_otp(api_url):
