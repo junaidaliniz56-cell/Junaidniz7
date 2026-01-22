@@ -6,20 +6,16 @@ from phonenumbers import geocoder
 from telegram import Bot, InlineKeyboardButton, InlineKeyboardMarkup
 from datetime import datetime
 
-BOT_TOKEN = "84338niIvObq_hExAVXrFmr6A"
+BOT_TOKEN = "8379981805:AAEn4lm6o8fsKQdyqX96Q9xUh_z5tZMWIQA"
 bot = Bot(token=BOT_TOKEN)
 
 GROUP_IDS = [
-    -1003361941052,
-    -1002076058429,
-    -1003512657207,
+     -1003486650232,
   
 ]
 
 API_URLS = [
     "https://kamina-otp.up.railway.app/d-group/sms",
-    "https://web-production-b717.up.railway.app/api?type=sms",
-    "https://kamina-otp.up.railway.app/mait/sms",
     "https://kami-broken.up.railway.app/api?type=sms",
     "https://juanidniz-pw-orpin.vercel.app/api/tempotps?type=sms",
     "https://teamlegend-gamma.vercel.app/api/dgroup?type=sms",
