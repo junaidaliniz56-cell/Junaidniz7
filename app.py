@@ -124,19 +124,19 @@ def format_message(record):
 <blockquote>📩 Full Message:</blockquote>
 <pre>{msg}</pre>
 
-Powered by Junaid Niz 💗 
+Powered by 𓄹𝐂ᴇʟᴇ𝐁𝐫𝐢ᴛ𝐘ཀོ𓍯 💗 
 """
 
 
 async def send_to_all_groups(message):
     keyboard = InlineKeyboardMarkup(inline_keyboard=[
         [
-            InlineKeyboardButton(text="📱 Channel", url="https://t.me/jndtech1"),
-            InlineKeyboardButton(text="☎️ Numbers", url="https://t.me/+c4VCxBCT3-QzZGFk")
+            InlineKeyboardButton(text="📱 Channel", url="https://t.me/backup_number_channel"),
+            InlineKeyboardButton(text="☎️ Numbers", url="https://t.me/Sms_number_channel")
         ],
         [
-            InlineKeyboardButton(text="👨‍💻 Developer", url="https://t.me/junaidniz786"),
-            InlineKeyboardButton(text="📣 YouTube", url="https://youtube.com/@junaidniz786?si=tQFOJbg7aDL5XpG7")
+            InlineKeyboardButton(text="👨‍💻 Developer", url="https://t.me/Elham_cyberi"),
+            InlineKeyboardButton(text="🟢 Whatsapp", url="https://chat.whatsapp.com/FUZgye5T8qR2vD1NezeYcj")
         ]
     ])
 
